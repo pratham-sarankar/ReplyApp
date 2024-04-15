@@ -22,3 +22,6 @@ Getting Started
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+
+# Learnings
+1. Learn how to create a responsive layout using Jetpack Compose.
